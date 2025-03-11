@@ -6,7 +6,7 @@
 <h3 align="center"><img src="https://icon-library.com/images/france-icon/france-icon-15.jpg"/ width="45"></h3>
 
 
-## 🙋‍♂️ À propos de moi
+### 🙋‍♂️ À propos de moi
 
 - 💻 Étudiant en BTS CIEL – Informatique & Réseau
 
