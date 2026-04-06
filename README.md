@@ -1,29 +1,68 @@
+<h1 align="center">Bonjour, je suis Loïc CHAVE 👋</h1>
+
+<h3 align="center">Futur Administrateur Systèmes et Réseaux 🌐 | Actuellement en BTS CIEL</h3>
+
 <p align="center">
-    <img src="https://lesjoiesducode.fr/content/049/dev-junior-senior-doc-heisenberg-meme.jpg" alt="Meme développeur" width="300px"/>
+  <img src="https://komarev.com/ghpvc/?username=loicchv&label=Vues+du+profil&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<h1 align="center">Salut, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Je suis Loïc</h1>
-<h3 align="center"><i>Le meilleur moyen de prédire l’avenir, c’est de le créer.</i></h3>
-<h3 align="center"><img src="https://icon-library.com/images/france-icon/france-icon-15.jpg"/ width="45"></h3>
 
+---
 
-## 🙋‍♂️ À propos de moi
+## 👨‍💻 À propos de moi
 
-- 💻 Étudiant en BTS CIEL – Informatique & Réseau
+* 🎓 Actuellement en deuxième année de **BTS CIEL** (Cybersécurité, Informatique et réseaux, Électronique) option Informatique et Réseaux.
+* 🚀 En route vers un **Bachelor B3 Administrateur Systèmes et Réseaux** pour l'année prochaine !
+* 🧠 Curieux de nature, je suis quelqu'un qui **adore apprendre de nouvelles choses** et relever constamment de nouveaux défis techniques.
+* 🎯 **Mon objectif :** Concevoir, déployer et maintenir des infrastructures informatiques robustes et sécurisées.
 
-- 🏫 Lycée Jules Haag - Besançon
+---
 
-- 📫 Voici mon adresse mail perso **loic.chave06@gmail.com**
+## 🛠️ Compétences Actuelles
 
+*Voici les technologies et langages avec lesquels je travaille déjà :*
 
+### 🐧 Systèmes & Réseaux
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Routage & IP](https://img.shields.io/badge/Routage_&_IP-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-## 🚀 Langages et outils
+### 💻 Développement & Conteneurisation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="left"> 
-    <a  target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;"  target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding-right:8px;"  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" width="50" height="50"/></a>
-    <a style="padding-right:8px;"  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="50" height="50"/></a>
-    <a style="padding-right:8px;"  target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" width="50" height="50"/></a>
-    <a style="padding-right:8px;"  target="_blank"> <img src="https://ultimatecourses.com/assets/category/css-fcba6b473cb1125595dc28163be24eb673907258b5f6f6c82967a0587a9df20c.svg" width="50" height="50"/></a>
-    <a style="padding-right:8px;"  target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" width="50" height="50"/></a>
+---
 
+## 🌱 Mes Futurs Apprentissages (En cours & À venir)
+
+*Parce que l'informatique évolue vite, voici les sujets sur lesquels je me concentre actuellement ou que je prévois d'explorer très prochainement :*
+
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+---
+
+## 📊 Mes Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loicchv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=loicchv&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 📫 Me Contacter
+
+<p align="center">
+  <a href="mailto:loic.chave.06@laposte.net">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/loïc-chave">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
